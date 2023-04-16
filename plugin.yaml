@@ -7,7 +7,7 @@ platforms:
   - selector: # optional
       os: linux
       arch: amd64
-    uri: https://github.com/tzurielweisberg/plugin-version/releases/download/test1/plugin-pre-release-testing.tar.gz
+    uri: https://github.com/tzurielweisberg/plugin-version/releases/download/test1/plugin-pre-release-testing1.tar.gz
     bin: ./aqua
   - selector:
       os: linux
