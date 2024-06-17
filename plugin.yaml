@@ -7,12 +7,12 @@ platforms:
   - selector: # optional
       os: linux
       arch: amd64
-    uri: https://github.com/tzurielweisberg/plugin-version/releases/download/test1/plugin-pre-release-testing.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.173.0/linux_amd64_v0.173.0.tar.gz
     bin: ./aqua
   - selector:
       os: linux
       arch: arm64
-    uri: https://github.com/tzurielweisberg/plugin-version/releases/download/test1/plugin-pre-release-testing.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.173.0/linux_amd64_v0.173.0.tar.gz
     bin: ./aqua
   - selector:
       os: darwin
